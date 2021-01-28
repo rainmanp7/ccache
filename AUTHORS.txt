@@ -1,4 +1,4 @@
-ccache authors
+﻿ccache authors.
 ==============
 
 ccache was originally written by Andrew Tridgell and is currently developed and
